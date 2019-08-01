@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="amount">Amount</string>
+    <string name="convert">Convert</string>
+    <string name="even">00</string>
+    <string name="dollar">US Dollars</string>
+    <string name="pound">Pound</string>
+    <string name="naira">Naira</string>
+
+    <string-array name="currency">
+        <item>US DOllars</item>
+        <!--<item>Naira</item>-->
+        <!--<item>Pounds</item>-->
+    </string-array>
+</resources>
